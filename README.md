@@ -55,4 +55,4 @@ This dataset is part of Airbnb Inside, and the original source can be found [her
 
 ### Blog Post
 
-My blog post can be found [here](https://medium.com/@jhorvath92/sleepless-in-seattle-airbnb-6064c2869025)
+My blog post can be found [here](https://medium.com/@jhorvath92/sleepless-in-seattle-airbnb-6064c2869025).
