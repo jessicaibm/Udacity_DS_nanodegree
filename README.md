@@ -9,6 +9,7 @@ Udacity Data Science Nanodegree Airbnb project
 3. [Data](#Data)
 4. [File Descriptions](#File-Descriptions)
 5. [Acknowledgement](#Acknowledgement)
+6. [Blog Post](#Blog-Post)
 
 ### Installation
 
@@ -51,3 +52,7 @@ CSV files:
 ### Acknowledgement
 
 This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
+
+### Blog Post
+
+My blog post can be found [here](https://medium.com/@jhorvath92/sleepless-in-seattle-airbnb-6064c2869025)
